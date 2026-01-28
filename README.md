@@ -1,7 +1,7 @@
 # VertexGraph
 Uses Vertex objects to display all vertices stored.
 
-#-------Copyright info-------
+# Copyright info
 Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
 Copyright © 2025 Alexander Keyser https://Website-ajk.uk https://github.com/Alex-J-key/C-Library-Base-Converter
