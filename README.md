@@ -4,7 +4,7 @@ Uses Vertex objects to display all vertices stored.
 # Copyright info
 Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
-Copyright © 2025 Alexander Keyser https://Website-ajk.uk https://github.com/Alex-J-key/C-Library-Base-Converter
+Copyright © 2026 Alexander Keyser https://Website-ajk.uk https://github.com/Alex-J-key/C-Library-Base-Converter
 
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
 
