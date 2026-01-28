@@ -1,0 +1,17 @@
+C:\Users\alexa\!VISUAL STUDIO PROJECTS\CS\GraphPlotter\bin\Debug\net9.0-windows\GraphPlotter.exe
+C:\Users\alexa\!VISUAL STUDIO PROJECTS\CS\GraphPlotter\bin\Debug\net9.0-windows\GraphPlotter.deps.json
+C:\Users\alexa\!VISUAL STUDIO PROJECTS\CS\GraphPlotter\bin\Debug\net9.0-windows\GraphPlotter.runtimeconfig.json
+C:\Users\alexa\!VISUAL STUDIO PROJECTS\CS\GraphPlotter\bin\Debug\net9.0-windows\GraphPlotter.dll
+C:\Users\alexa\!VISUAL STUDIO PROJECTS\CS\GraphPlotter\bin\Debug\net9.0-windows\GraphPlotter.pdb
+C:\Users\alexa\!VISUAL STUDIO PROJECTS\CS\GraphPlotter\obj\Debug\net9.0-windows\GraphPlotter.csproj.GenerateResource.cache
+C:\Users\alexa\!VISUAL STUDIO PROJECTS\CS\GraphPlotter\obj\Debug\net9.0-windows\GraphPlotter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\!VISUAL STUDIO PROJECTS\CS\GraphPlotter\obj\Debug\net9.0-windows\GraphPlotter.AssemblyInfoInputs.cache
+C:\Users\alexa\!VISUAL STUDIO PROJECTS\CS\GraphPlotter\obj\Debug\net9.0-windows\GraphPlotter.AssemblyInfo.cs
+C:\Users\alexa\!VISUAL STUDIO PROJECTS\CS\GraphPlotter\obj\Debug\net9.0-windows\GraphPlotter.csproj.CoreCompileInputs.cache
+C:\Users\alexa\!VISUAL STUDIO PROJECTS\CS\GraphPlotter\obj\Debug\net9.0-windows\GraphPlotter.dll
+C:\Users\alexa\!VISUAL STUDIO PROJECTS\CS\GraphPlotter\obj\Debug\net9.0-windows\refint\GraphPlotter.dll
+C:\Users\alexa\!VISUAL STUDIO PROJECTS\CS\GraphPlotter\obj\Debug\net9.0-windows\GraphPlotter.pdb
+C:\Users\alexa\!VISUAL STUDIO PROJECTS\CS\GraphPlotter\obj\Debug\net9.0-windows\GraphPlotter.genruntimeconfig.cache
+C:\Users\alexa\!VISUAL STUDIO PROJECTS\CS\GraphPlotter\obj\Debug\net9.0-windows\ref\GraphPlotter.dll
+C:\Users\alexa\!VISUAL STUDIO PROJECTS\CS\GraphPlotter\obj\Debug\net9.0-windows\GraphPlotter.frmAddNewVertex.resources
+C:\Users\alexa\!VISUAL STUDIO PROJECTS\CS\GraphPlotter\obj\Debug\net9.0-windows\GraphPlotter.frmMain.resources
