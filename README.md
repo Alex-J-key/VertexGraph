@@ -1,5 +1,7 @@
 # VertexGraph
 Uses Vertex objects to display all vertices stored.
+You can create new verticies at the top of the window.
+The code/validation is not 100% perfect but it works.
 
 # Copyright info
 Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
